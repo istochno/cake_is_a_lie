@@ -1,0 +1,3 @@
+[submodule "angularjs-frontend-template"]
+	path = angularjs-frontend-template
+	url = https://github.com/jaredpetersen/angularjs-frontend-template
